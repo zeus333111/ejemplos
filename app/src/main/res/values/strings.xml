@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">S5next</string>}
+    <string name="alta">Alta cliente</string>
+    <string name="consulta">Consulta y edicíon de clientes</string>
+    <string name="registro">Registro de pagos</string>
+    <string name="resumen">Resumen de pagos</string>
+    <string name="nombre">Nombre</string>
+    <string name="segundo_nombre">Segundo nombre</string>
+    <string name="apep">Apellido paterno</string>
+    <string name="apem">Apellido materno</string>
+    <string name="fecha_nac">Fecha de nacimiento (YYYY-MM-DD)</string>
+    <string name="genero">Género</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar cliente</string>
+    <string name="clientes">Clientes:</string>
+    <string name="fecha_pago">Fecha de pago</string>
+    <string name="monto">Monto</string>
+    <string name="cliente">Cliente:</string>
+    <string name="pagos">Numero de pagos:</string>
+    <string name="total">Total pagado:</string>
+</resources>
